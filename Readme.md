@@ -34,29 +34,29 @@ mern-book-app/
 
 ### Backend
 
-1)cd server
-1)npm install
+- cd server
+- npm install
 
 ## Create a .env file in the server folder:
 
-1)PORT=5000
-2)MONGO_URI=your_mongodb_connection_string
+- PORT=5000
+- MONGO_URI=your_mongodb_connection_string
 
 ## Start the server:
 
-1)npm start
+- npm start
 
 ## Frontend :
 
-1)cd client
-2)npm install
-3)npm start
+- cd client
+- npm install
+- npm start
 
 ## Contributing:
 
 Feel free to fork this repository, make changes, and submit a pull request!
 
-## Screenshots
+
 
 
 
